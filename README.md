@@ -5,7 +5,7 @@ Summer Home Work<br>
 宿題一覧など、夏休みにすることを作成、進捗を管理することができます。<br>
 
 ## アプリURL
-https://vercel.com/huyuxe/summer-home-work<br>
+https://summer-home-work.vercel.app/<br>
 
 ## アプリケーションを作成した背景
 夏休みが終わる３日前からの宿題ラッシュから逃れたい親子のために作りました。<br>
